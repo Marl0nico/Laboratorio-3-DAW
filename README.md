@@ -4,3 +4,4 @@ Creación del archivo JS
 Push hacia el repositorio del archivo
 ![image](https://github.com/user-attachments/assets/1d2b11b3-817f-4080-818f-c64e8f064002)
 Repositorio creado y archivo subido en la rama seleccionada
+![image](https://github.com/user-attachments/assets/9646fccc-dd2d-45cf-9cdd-24939072de0b)
