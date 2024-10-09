@@ -1,6 +1,6 @@
 Laboratorio 3 - Desarrollo de aplicaciones web
 Creación del archivo JS
-![image](https://github.com/user-attachments/assets/16e19b8f-fe80-49a3-90a3-e826cc186ba2)
+![image](https://github.com/user-attachments/assets/c60b82a0-e3e8-46d8-a63d-adfe0497bd9d)
 Push hacia el repositorio del archivo
 ![image](https://github.com/user-attachments/assets/7d60185e-f9e9-4547-bd08-5eb77789e172)
 Repositorio creado y archivo subido en la rama seleccionada
